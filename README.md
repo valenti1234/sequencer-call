@@ -1,2 +1,11 @@
-# sequencer-call
-node js flow sequencer
+# node js module for flow sequences
+
+
+## Getting started
+
+``` bash
+# install dependencies
+$ npm install
+
+```
+
