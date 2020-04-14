@@ -1,5 +1,5 @@
 'use strict';
-const Sequencer = require('./index.js');
+const Sequencer = require('../index.js');
 
 const prefix = 'test';
 

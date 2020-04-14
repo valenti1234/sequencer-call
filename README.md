@@ -5,7 +5,9 @@
 
 ``` bash
 # install dependencies
-$ npm install
+$ npm install sequencer-call
 
 ```
 
+## How to use
+Please look test.js under example folder.
